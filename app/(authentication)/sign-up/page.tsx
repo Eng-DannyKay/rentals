@@ -3,13 +3,13 @@ import SignUpForm from "@/components/signUpForm";
 import React from "react";
 
 export const metadata = {
-  title: "Create Your reantals Account",
+  title: "Create Your rentals Account",
   description:
-    "Sign up as a customer to get started with reantals. Create your account today and enjoy our premium services.",
+    "Sign up as a customer to get started with rentals. Create your account today and enjoy our premium services.",
   openGraph: {
-    title: "Create Your reantals Account ",
+    title: "Create Your rentals Account ",
     description:
-      "Sign up as a customer to get started with reantals. Create your account today and enjoy our premium services.",
+      "Sign up as a customer to get started with rentals. Create your account today and enjoy our premium services.",
     type: "website",
   },
 };
@@ -18,7 +18,7 @@ const SignUp = () => {
   return (
     <AuthenticationFrame
       subText="Sign up as a customer to get started"
-      title="Create Your reantals Account"
+      title="Create Your rentals Account"
     >
       <SignUpForm />
     </AuthenticationFrame>

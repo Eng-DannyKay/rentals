@@ -17,10 +17,10 @@ export const MESSAGES = {
 
 export const metadata = {
   title: "Search",
-  description: "Find vehicles on reantals and filter to match your needs.",
+  description: "Find vehicles on rentals and filter to match your needs.",
   openGraph: {
     title: "Search",
-    description: "Find vehicles on reantals and filter to match your needs.",
+    description: "Find vehicles on rentals and filter to match your needs.",
     type: "website",
   },
 };
@@ -73,7 +73,7 @@ export const carListings = [
       "Android Auto",
       "Cruise Control",
       "Keyless Entry",
-      "Alloy reantals",
+      "Alloy rentals",
       "Fog Lights",
     ],
     color: "Gray",
@@ -128,7 +128,7 @@ export const carListings = [
       "Keyless Entry",
       "Apple CarPlay",
       "Android Auto",
-      "Alloy reantals",
+      "Alloy rentals",
     ],
     color: "White",
     seatingCapacity: "5",

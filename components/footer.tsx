@@ -26,9 +26,6 @@ export const Footer = (): JSX.Element => {
               alt="Letter e"
             />
             <div className=" relative ">
-              <div className=" text-2xl md:text-[75.3px]  font-medium text-white [font-family:'DM_Sans',Helvetica] tracking-[0]">
-                Heels
-              </div>
             </div>
           </div>
 
@@ -38,7 +35,7 @@ export const Footer = (): JSX.Element => {
               Ready to get started?
             </h2>
             <p className="font-normal text-white md:text-2xl text-center tracking-[0] leading-[38.7px] [font-family:'DM_Sans',Helvetica]">
-              Join thousands of users already using reantals for their automotive
+              Join thousands of users already using rentals for their automotive
               needs
             </p>
             <Button
@@ -72,7 +69,7 @@ export const Footer = (): JSX.Element => {
 
             <div className="flex flex-col items-center w-full">
               <p className="font-normal text-white text-base text-center tracking-[0] leading-6 [font-family:'DM_Sans',Helvetica]">
-                © 2025 reantals. All rights reserved.
+                © 2025 rentals. All rights reserved.
               </p>
             </div>
           </div>

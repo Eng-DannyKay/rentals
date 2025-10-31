@@ -3,7 +3,7 @@ import { LogoWithText, StarShape } from "@/assets/imageIndex";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
 
-const reantalsBrandSection = () => {
+const RentalsBrandSection = () => {
   const wheelLogo = [
     { id: 1, name: "logo", image: LogoWithText },
     { id: 2, name: "star", image: StarShape },
@@ -42,4 +42,4 @@ const reantalsBrandSection = () => {
   );
 };
 
-export default reantalsBrandSection;
+export default RentalsBrandSection;

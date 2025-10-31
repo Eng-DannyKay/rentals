@@ -1,15 +1,15 @@
 import VehicleDetailsClient from "./_components/detailsClient";
 
 export const metadata = {
-  title: "Vehicle Details | reantals",
-  description: "View details for vehicles on reantals.",
+  title: "Vehicle Details | rentals",
+  description: "View details for vehicles on rentals.",
   openGraph: {
-    title: "Vehicle Details | reantals",
-    description: "View details for vehicles on reantals.",
+    title: "Vehicle Details | rentals",
+    description: "View details for vehicles on rentals.",
   },
   twitter: {
-    title: "Vehicle Details | reantals",
-    description: "View details for vehicles on reantals.",
+    title: "Vehicle Details | rentals",
+    description: "View details for vehicles on rentals.",
   },
 };          
 
