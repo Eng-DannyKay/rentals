@@ -82,7 +82,7 @@ const Header = () => {
               />
               <div>
                 <div className="text-lg sm:text-xl md:text-2xl leading-[14.7px] [font-family:'DM_Sans',Helvetica] font-medium text-white">
-                  Heels
+                  Rentals
                 </div>
               </div>
             </div>
