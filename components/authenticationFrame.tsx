@@ -26,7 +26,7 @@ const AuthenticationFrame = ({
       <div className="bg-white max-w-[550px] max-h-[100vh] w-full  m-auto p-6 shadow-lg rounded-[8px] text-[#23292E] ">
         <div className="mx-auto flex items-center justify-center flex-col gap-2 mb-6">
           <Link href="/">
-            <Image src={Logo} width={12} height={12} alt="dark logo" />
+            <Image src={Logo} width={20} height={20} alt="dark logo" />
           </Link>
           <p className="font-bold text-2xl leading-8">{title}</p>
           <p className="text-[#45535F] leading-[130%]">{subText}</p>
