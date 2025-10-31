@@ -28,7 +28,7 @@ export { default as DealerIcon } from "./icons/deal 1.svg";
 export { default as DownSpring } from "./icons/downspring.svg";
 export { default as UpSpring } from "./icons/upspring.svg";
 export { default as ProcessBackground } from "./icons/processes background.svg";
-export { default as LogoWithText } from "./icons/logoWithText.svg";
+export { default as LogoWithText } from "./images/logoWithText.jpg";
 export { default as StarShape } from "./icons/Shape.svg";
 export { default as CustomerIcon } from "./icons/customer.svg";
 export { default as CarVendorIcon } from "./icons/car vendor.svg";
