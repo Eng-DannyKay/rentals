@@ -1,6 +1,6 @@
 export { default as ContactIcon } from "./icons/contact.svg";
 export { default as LinkIcon } from "./icons/link.svg";
-export { default as Logo } from "./icons/letter-e 1.svg";
+export { default as Logo } from "./icons/car-logo.jpg";
 export { default as BMWLogo } from "./icons/BMW-Logo.wine 1.svg";
 export { default as TeslaLogo } from "./icons/Tesla,_Inc.-Logo.wine 1.svg";
 export { default as FordLogo } from "./icons/Ford_Motor_Company-Logo.wine 1.svg";

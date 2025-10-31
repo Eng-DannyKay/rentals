@@ -5,7 +5,7 @@ import { CallToActionSection } from "./(home)/sections/callToActionSection";
 import HeroSection from "./(home)/sections/heroSection";
 import { ServicesSection } from "./(home)/sections/serviceSection";
 import { TestimonialsSection } from "./(home)/sections/testimonialsSection";
-import WheelsBrandSection from "./(home)/sections/wheelsBrandSection";
+import reantalsBrandSection from "./(home)/sections/reantalsBrandSection";
 
 export default function Home() {
   return (
@@ -16,7 +16,7 @@ export default function Home() {
       <BestDealSection />
       <ServicesSection />
       <TestimonialsSection />
-      <WheelsBrandSection />
+      <reantalsBrandSection />
       <CallToActionSection />
     </div>
   );

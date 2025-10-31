@@ -17,7 +17,7 @@ export const Footer = (): JSX.Element => {
   return (
     <>
       {!isPathExempted && (
-        <footer className="flex flex-col  w-full items-center gap-16 py-10 bg-[url('/footerbg.png')] bg-cover bg-center">
+        <footer className="flex flex-col  w-full items-center gap-16 py-10 bg-[url('/footerbg.jpg')] bg-cover bg-center">
           {/* Logo section */}
           <div className="flex items-center gap-2.5 justify-center">
             <Image
@@ -38,7 +38,7 @@ export const Footer = (): JSX.Element => {
               Ready to get started?
             </h2>
             <p className="font-normal text-white md:text-2xl text-center tracking-[0] leading-[38.7px] [font-family:'DM_Sans',Helvetica]">
-              Join thousands of users already using Wheels for their automotive
+              Join thousands of users already using reantals for their automotive
               needs
             </p>
             <Button
@@ -72,7 +72,7 @@ export const Footer = (): JSX.Element => {
 
             <div className="flex flex-col items-center w-full">
               <p className="font-normal text-white text-base text-center tracking-[0] leading-6 [font-family:'DM_Sans',Helvetica]">
-                © 2025 Wheels. All rights reserved.
+                © 2025 reantals. All rights reserved.
               </p>
             </div>
           </div>

@@ -18,7 +18,7 @@ const SignIn = () => {
   return (
     <AuthenticationFrame
       subText="Sign in as a customer to get started"
-      title="Sign Into Your Wheels Account"
+      title="Sign Into Your reantals Account"
     >
       <SignInForm />
     </AuthenticationFrame>

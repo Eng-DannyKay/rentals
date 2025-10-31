@@ -17,14 +17,13 @@ export const MESSAGES = {
 
 export const metadata = {
   title: "Search",
-  description: "Find vehicles on wheels and filter to match your needs.",
+  description: "Find vehicles on reantals and filter to match your needs.",
   openGraph: {
     title: "Search",
-    description: "Find vehicles on wheels and filter to match your needs.",
+    description: "Find vehicles on reantals and filter to match your needs.",
     type: "website",
   },
 };
-
 
 export const carListings = [
   {
@@ -48,7 +47,7 @@ export const carListings = [
     city: "Accra",
     region: "Greater Accra",
     status: "Pending",
-   images: [Corolla, Corolla,Camaro],
+    images: [Corolla, Corolla, Camaro],
     reviewMemo: "",
     reviewedBy: "",
     make: "Toyota",
@@ -74,7 +73,7 @@ export const carListings = [
       "Android Auto",
       "Cruise Control",
       "Keyless Entry",
-      "Alloy Wheels",
+      "Alloy reantals",
       "Fog Lights",
     ],
     color: "Gray",
@@ -105,7 +104,7 @@ export const carListings = [
     city: "Accra",
     region: "Greater Accra",
     status: "Pending",
-   images: [Corolla, Corolla,Camaro],
+    images: [Corolla, Corolla, Camaro],
     reviewMemo: "",
     reviewedBy: "",
     make: "Toyota",
@@ -129,7 +128,7 @@ export const carListings = [
       "Keyless Entry",
       "Apple CarPlay",
       "Android Auto",
-      "Alloy Wheels",
+      "Alloy reantals",
     ],
     color: "White",
     seatingCapacity: "5",
@@ -159,7 +158,7 @@ export const carListings = [
     city: "Accra",
     region: "Greater Accra",
     status: "Pending",
-   images: [Corolla, Corolla,Corolla],
+    images: [Corolla, Corolla, Corolla],
     reviewMemo: "",
     reviewedBy: "",
     make: "Honda",
@@ -210,7 +209,7 @@ export const carListings = [
     city: "Accra",
     region: "Greater Accra",
     status: "Pending",
-   images: [Corolla, Corolla,Corolla],
+    images: [Corolla, Corolla, Corolla],
     reviewMemo: "",
     reviewedBy: "",
     make: "Tesla",
